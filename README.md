@@ -1,1 +1,2 @@
-﻿# Deduction-Schr-dinger-Equation
+﻿# Deduction Schrodinger Equation
+PDF and .tex
